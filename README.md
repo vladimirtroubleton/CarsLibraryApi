@@ -7,6 +7,13 @@ HtppPost - https://localhost:44358/api/Cars/GetCars (body json)
 "attrKey":"TypeCar",
 "attrValues":"Седан"
 }
+Доступные атрибуты для поиска :
+Number:string - номер машины
+TypeCar:string - тип машины
+Model:string - модель машины
+ReleaseYear:int - год выпуска машины
+OwnerName:string - имя владельца
+CountHourseForces:string - количество лошадиных сил
 Создание машины:
 httpPost - https://localhost:44358/api/Cars/CreateCar;
 Исходящий json:

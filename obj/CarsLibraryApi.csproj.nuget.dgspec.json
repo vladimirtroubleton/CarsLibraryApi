@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Николай\\Desktop\\CarsApi-master\\CarsLibraryApi.csproj": {}
+    "D:\\Release\\CarsLibraryApi\\CarsLibraryApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Николай\\Desktop\\CarsApi-master\\CarsLibraryApi.csproj": {
+    "D:\\Release\\CarsLibraryApi\\CarsLibraryApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Николай\\Desktop\\CarsApi-master\\CarsLibraryApi.csproj",
+        "projectUniqueName": "D:\\Release\\CarsLibraryApi\\CarsLibraryApi.csproj",
         "projectName": "CarsLibraryApi",
-        "projectPath": "C:\\Users\\Николай\\Desktop\\CarsApi-master\\CarsLibraryApi.csproj",
-        "packagesPath": "C:\\Users\\Николай\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Николай\\Desktop\\CarsApi-master\\obj\\",
+        "projectPath": "D:\\Release\\CarsLibraryApi\\CarsLibraryApi.csproj",
+        "packagesPath": "C:\\Users\\vladimirtroubleton\\.nuget\\packages\\",
+        "outputPath": "D:\\Release\\CarsLibraryApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Николай\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vladimirtroubleton\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -69,7 +69,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
