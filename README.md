@@ -8,8 +8,8 @@ HtppPost - https://localhost:44358/api/Cars/GetCars (body json)
 "attrValues":"Седан"
 }
 # Доступные атрибуты для поиска :
-\n Number:string - номер машины
-\n TypeCar:string - тип машины
+Number:string - номер машины
+TypeCar:string - тип машины
 Model:string - модель машины
 ReleaseYear:int - год выпуска машины
 OwnerName:string - имя владельца
